@@ -72,7 +72,7 @@
             "strategy": "session"
           },
           "foreground": "#ffffff",
-          "background": "#83759c",
+          "background": "#2877c2",
           "invert_powerline": true
         },
         {
@@ -81,7 +81,7 @@
           "powerline_symbol": "\ue0b4",
           "template": " \uf017 {{ .CurrentDate | date .Format }} ",
           "foreground": "#ffffff",
-          "background": "#83759c",
+          "background": "#2e9599",
           "invert_powerline": true,
           "leading_powerline_symbol": "\ue0b2",
           "leading_diamond": "\ue0b2"
